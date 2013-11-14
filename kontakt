@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+  <html>
+    <head>
+	  <title> Water Aerobic </title>
+	  <link rel="stylesheet" type="text/css" href="vattensida.css">
+	</head>
+	
+	<body>
+	   <div id="wrapper">
+	      <ul id="navigation">
+		     <li><a href="index.html">Hem</a></li>
+			 <li><a href="omoss.html">Om oss</a></li>
+			 <li><a href="bildgalleri.html">Bildgalleri</a></li>
+			 <li><a href="priser.html">Pass & Priser</a></li>
+			 <li><a href="gastbok.html">G&auml;stbok</a></li>
+			 <li><a href="kontakt.html">Kontakta oss</a></li>
+		  </ul>
+	      <div id="bot">
+		    <img src="_img/bottom.png">
+		  </div>
+	        <div id="kontakta">
+			
+			  <img id="bilder" src="_img/kontaktabilder.png">
+			  <p id="rubrik"> Kontakta oss </p>
+			  <p class="info1">  Katarina Vesterlund
+							<br>	060-58 37 08
+							<br>	070-341 25 51 </p>
+							
+			  <p class="info2"> Timr&aring; Simhall
+							<br>	Vivstav&auml;gen 17
+							<br>	861 32 Timr&aring;
+							<br>	060-16 32 00 </p>
+							
+			  <p class="info3"> Katarina Stenvall
+							<br>	060-17 11 24
+							<br>	070-522 39 55  </p>
+			
+			</div>
+		   
+		</div>
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</body>
+	
+ </html>
