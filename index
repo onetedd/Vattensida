@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+  <html>
+    <head>
+	  <title> Water Aerobic </title>
+	  <link rel="stylesheet" type="text/css" href="vattensida.css">
+	</head>
+	
+	<body>
+	   <div id="wrapper">
+	      <ul id="navigation">
+		     <li><a href="index.html">Hem</a></li>
+			 <li><a href="omoss.html">Om oss</a></li>
+			 <li><a href="bildgalleri.html">Bildgalleri</a></li>
+			 <li><a href="priser.html">Pass & Priser</a></li>
+			 <li><a href="gastbok.html">G&auml;stbok</a></li>
+			 <li><a href="kontakt.html">Kontakta oss</a></li>
+		  </ul>
+		  
+		  <div id="bot">
+		    <img src="_img/bottom.png">
+			
+		  </div>
+	      
+		  
+		  <div id="inforutan">
+		    <img src="_img/inforuta.png" width="250px" height=" 350px">
+			
+		  </div>
+	          <div id="indexbilder">
+		        <img id="undervattenvikt" src="_img/undervattenvikt.png" width="18%" height="27%">
+		        <img id="plask" src="_img/plaskar.jpg" height="23%" width="21%">
+		        <img id="handernaupp" src="_img/gruppivatten.jpg" height="33%" width="21%">
+		        <img id="bubbel" src="_img/bubbel.jpg" height="29%" width="18%">
+		  
+		     </div>
+			 
+			  <div id="beskrivning">
+			 <h1>   V&auml;lkommen till oss p&aring; Timr&aring; Simhall</h1><br>
+				<p class="italic">Vi &auml;r katarinorna, tv&aring; glada instrukt&ouml;rer som trivs som fisken i vattnet med att leda<br>
+				olika kurser i vattnet. Vi har tjugo &aring;rs erfarenhet av b&aring;de vattengympa och<br>
+				djupvattentr&auml;ning med v&auml;star och andra olika redskap. Vatten &auml;r ett fantastiskt<br>
+				tr&auml;ningselement f&ouml;r kroppens v&auml;lbefinnande.</p><br>
+			  
+			  </div>
+		</div>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</body>
+	
+ </html>
