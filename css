@@ -1,0 +1,252 @@
+body
+{
+  background-image: url(_img/background.png);
+  background-repeat: no-repeat;
+  background-position: 150px 0px;
+  background-size: 80%;
+  
+  
+  
+  
+}
+#bot
+{
+  
+  background-repeat: no-repeat;
+  position: absolute;
+  top: 900px;
+  left: 290px;
+}
+
+ul#navigation
+{
+  position:absolute;
+  left: 18%;
+  top: 31%;
+  margin-left: 0;
+  padding-left: 0;
+  list-style-type: inside;
+  
+  width:100%;
+
+  
+}
+
+ul#navigation li
+{
+  display:inline;
+  
+  
+}
+ul#navigation a
+{
+  display: block;
+  float: left;
+  margin: 0;
+  padding: 2px 40px 10px 40px;      
+  text-decoration: none;
+  color: #0081c4;
+  border-right: 1px solid #fff;
+  
+}
+ul#navigation a:hover
+{
+  
+  color: #000;
+  background: #b0c4d0; /
+}
+
+#bilder  /* bildgalleri.html */
+{
+  position: absolute;
+  top: 350px;
+  left: 390px;
+  padding: 1;
+}
+#inforutan /* index.html */
+{
+  height: 70%;
+  width: 10%;
+  position: absolute;
+  top: 50%;
+  left: 68%;
+  
+}
+
+p#info     
+{
+  position: absolute;
+  left: 500px;
+  top: 350px;
+  bottom: px;
+}
+
+#indexbilder #undervattenvikt    /*indexsida*/
+{
+  position: absolute;
+  top: 50%;
+  left: 17%;
+}
+#indexbilder #bubbel     /*indexsida*/
+{
+  position: absolute;
+  top: 79%;
+  left: 17%;
+}
+
+#indexbilder #handernaupp    /*indexsida*/
+{
+  position: absolute;
+  top: 50%;
+  left: 36%;
+}
+#indexbilder #plask    /*indexsida*/
+{
+  position: absolute;
+  top: 85%;
+  left: 36%;
+}
+
+#beskrivning		/*indexsida*/
+{
+  position: absolute;
+  top: 700px;
+  left: 300px;
+  font-size: 16px;
+}
+#beskrivning h1		/*indexsida*/
+{
+  font-style: italic;
+  font-size: 38px;
+}
+#beskrivning p.italic   /*indexsida*/
+{
+  font-style: italic;
+  font-size: 20px;
+}
+
+#omossbild    /* om oss sidan*/
+{
+  position: absolute;
+  top: 50%;
+  left: 25%;
+}
+#omosstext   /* om oss sidan*/
+{
+  position: absolute;
+  top: 110%;
+  left: 37%;
+}
+#omosstext #omossrubrik    /* om oss sidan*/
+{
+  font-style: italic;
+  font-size: 38px;
+  position: absolute;
+  left: 0%;
+  bottom: 55%;
+}
+#omosstext #omoss    /* om oss sidan*/
+{
+  position: absolute;
+  bottom: 190%;
+  left: 27%;
+  font-style: italic;
+  font-size: 38px;
+}
+#omosstext #omossnamn1    /* om oss sidan*/
+{
+  position: absolute;
+  bottom: 90%;
+  font-style: italic;
+  
+}
+#omosstext #omossnamn2    /* om oss sidan*/
+{
+  position: absolute;
+  bottom: 90%;
+  left: 53%;
+  font-style: italic;
+}
+#omosstext #katarinorna     /* om oss sidan*/
+{
+  font-style: italic;
+}
+#ledarledd #ledarleddbild  /* priser och blabla */
+{
+  position: absolute;
+  top: 50%;
+  left: 40%;
+}
+#ledarledd #rubrik
+{
+  position: absolute;
+  top: 37%;
+  left: 44%;
+  font-size: 33px;
+  font-style: italic;
+}
+#ledarledd #info
+{
+  position: absolute;
+  top: 87%;
+  left: 33%;
+  font-style: italic;
+}
+#ledarledd #bot
+{
+  position: absolute;
+  top: 180%;
+}
+#ledarledd #tabell
+{
+  position: absolute;
+  top: 140%;
+  left: 32.5%;
+}
+#ledarledd #pass1
+{
+  position: absolute;
+  top: 106%;
+  left: 30.1%;
+}
+#ledarledd #pass2
+{
+  position: absolute;
+  top: 118.7%;
+  left: 30.1%;
+}
+
+#kontakta #bilder
+{
+  position: absolute;
+  top: 47%;
+  left: 33%;
+}
+#kontakta .info1
+{
+  position: absolute;
+  top: 80%;
+  left: 34%;
+}
+#kontakta #rubrik
+{
+  position: absolute;
+  top: 68%;
+  left: 43%;
+  font-size: 34px;
+  font-style: italic;
+}
+#kontakta .info2  
+{
+  position: absolute;
+  top: 80%;
+  left: 46.5%;
+  border-right-style: solid 1px;
+  border-left-style:  solid 1px;
+}
+#kontakta .info3
+{
+  position: absolute;
+  top: 80%;
+  left: 58%;
+}
