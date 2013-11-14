@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+  <html>
+    <head>
+	  <title> Water Aerobic </title>
+	  <link rel="stylesheet" type="text/css" href="vattensida.css">
+	</head>
+	
+	<body>
+	   <div id="wrapper">
+	      <ul id="navigation">
+		     <li><a href="index.html">Hem</a></li>
+			 <li><a href="omoss.html">Om oss</a></li>
+			 <li><a href="bildgalleri.html">Bildgalleri</a></li>
+			 <li><a href="priser.html">Pass & Priser</a></li>
+			 <li><a href="gastbok.html">G&auml;stbok</a></li>
+			 <li><a href="kontakt.html">Kontakta oss</a></li>
+		  </ul>
+	      
+		  
+		  <div id="ledarledd">
+		  
+		    <img id="ledarleddbild" src="_img/ledarledd.jpg">
+		    <p id="rubrik"> Pass & Priser </p>
+			<img id="pass1" src="_img/passen.png">
+			<img id="pass2" src="_img/passen.png">
+			<p id="info"> V&aring;ra pass &auml;r inspirerande vattenpass i h&ouml;gt tempo, d&auml;r b&aring;de kondition <br>
+                          och styrka varieras med koordination och r&ouml;rlighet. Vi genomarbetar <br>
+						  kroppens muskler p&aring; ett mjukt och skonsamt s&auml;tt. Till de anv&auml;nder<br>
+						  vi olika vattenredskap och vattnets eget motst&aring;nd.<br><br>
+						  1:a passet &auml;r ett fartfyllt aerobicpass p&aring; b&aring;de grunda och djupa delen<br>
+					      av bass&auml;ngen. I passet ing&aring;r uppv&auml;rmning, kondition i h&ouml;gt tempo,<br>
+							styrka och r&ouml;rlighet. Passet avslutas med nedvarvning och stretching.<br><br>
+							2:a passet &auml;r ett djupvattenpass d&auml;r vi jobbar till st&ouml;rsta delen p&aring;<br>
+							djupt vatten. Ett vattenpass d&auml;r kroppens alla muskler genomarbetas<br>
+							p&aring; ett skonsamt s&auml;tt. Styrka och r&ouml;rlighets &ouml;vningar varvas med<br>
+							konditions och koordinations&ouml;vningar. Till hj&auml;lp har vi olika redskap.<br>
+							Passet avslutas med nedvarvning och streching. </p>
+			<img id="tabell" src="_img/pristabell.png">
+			<img id="bot"    src="_img/bottom.png">
+		  </div>
+	
+		   
+		</div>
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</body>
+	
+ </html>
