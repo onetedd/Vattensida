@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+  <html>
+    <head>
+	  <title> Water Aerobic </title>
+	  <link rel="stylesheet" type="text/css" href="vattensida.css">
+	</head>
+	
+	<body>
+	   <div id="wrapper">
+	      <ul id="navigation">
+		     <li><a href="index.html">Hem</a></li>
+			 <li><a href="omoss.html">Om oss</a></li>
+			 <li><a href="bildgalleri.html">Bildgalleri</a></li>
+			 <li><a href="priser.html">Pass & Priser</a></li>
+			 <li><a href="gastbok.html">G&auml;stbok</a></li>
+			 <li><a href="kontakt.html">Kontakta oss</a></li>
+		  </ul>
+	      <div id="bot">
+		    <img src="_img/bottom.png">
+		  </div>
+	
+		   
+		</div>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</body>
+	
+ </html>
