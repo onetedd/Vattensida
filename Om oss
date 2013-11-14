@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+  <html>
+    <head>
+	  <title> Water Aerobic </title>
+	  <link rel="stylesheet" type="text/css" href="vattensida.css">
+	</head>
+	
+	<body>
+	   <div id="wrapper">
+	      <ul id="navigation">
+		     <li><a href="index.html">Hem</a></li>
+			 <li><a href="omoss.html">Om oss</a></li>
+			 <li><a href="bildgalleri.html">Bildgalleri</a></li>
+			 <li><a href="priser.html">Pass & Priser</a></li>
+			 <li><a href="gastbok.html">G&auml;stbok</a></li>
+			 <li><a href="kontakt.html">Kontakta oss</a></li>
+		  </ul>
+	      <div id="bot">
+		    <img src="_img/bottom.png">
+		  </div>
+	
+			
+	
+	      <div id="omossbild">
+		    
+			
+			<img src="_img/omossbild.png">
+		  
+		  </div>
+		   
+		   
+		   
+		   <div id="omosstext"> 
+		        <p id="omossrubrik"> Instrukt&ouml;rer med gedigen <br>
+                   erfarenhet i vattnet! </p>
+			    <p id="omoss"> Om oss </p>
+			    <p id="omossnamn1"> Katarina <q>Kattie</q> Vesterlund </p>
+			    <p id="omossnamn2"> Katarina <q>Katta </q> Stenvall </p>
+			    <p id="katarinorna"><br><br><br><br><br><br><br> Vi &auml;r katarinorna, tv&aring; glada instrukt&ouml;rer med l&aring;ng <br>
+			  erfarenhet inom vattentr&auml;ning och med att leda olika kurser i vattnet. <br>
+Fr&aring;n att sj&auml;lv ha tr&auml;nat simning och konstsim i ungdoms&aring;ren har <br>
+vi utbildat oss till siml&auml;rare och fortsatt inom friskv&aring;rd d&auml;r <br>
+vattengympan blev v&aring;rt redskap. Vi har under dessa 25 &aring;r fortbildat <br>
+oss p&aring; olika redskap vad g&auml;ller ren vattengymnsatik och <br>
+djupvattentr&auml;ning.G&aring;tt flertal kurser inom wet west tr&auml;ning, vatten <br>
+spinning, cirkulationstr&auml;ning och wateraerobic som vi nu mixar in <br>
+i de olika kurserna som vi leder i Timr&aring; Simhall. </p> <br>
+		   
+		   </div>
+		</div>
+	
+	
+	</body>
+	
+ </html>
